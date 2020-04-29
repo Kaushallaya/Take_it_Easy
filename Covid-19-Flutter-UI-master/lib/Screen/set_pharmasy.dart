@@ -11,6 +11,7 @@ import 'deliver_info_screen.dart';
 class SetPharmacyScreen extends StatefulWidget {
 
   final String cityname;
+//  final String distname;
   const SetPharmacyScreen(this.cityname);
 
   @override
